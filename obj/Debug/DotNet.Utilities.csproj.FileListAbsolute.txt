@@ -1,0 +1,14 @@
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\DotNet.Utilities.XML
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\Excel.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\itextsharp.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\MySql.Data.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\System.Data.SQLite.DLL
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\office.dll
+E:\KevinGitHub\DotNet.Utilities\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\KevinGitHub\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+E:\KevinGitHub\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
