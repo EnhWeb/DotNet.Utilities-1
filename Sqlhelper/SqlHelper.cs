@@ -1,8 +1,8 @@
 ﻿/// <summary>
 /// 类说明：公共的数据库访问访问类
 /// 编码日期：2010-4-22
-/// 编 码 人：苏飞
-/// 联系方式：361983679  Email：sufei.1013@163.com  Blogs:http://www.sufeinet.com
+/// 编 码 人：Kevin
+/// 联系方式：746396173Email：sufei.1013@163.com  Blogs:http://www.sufeinet.com
 /// 修改日期：2013-08-15
 /// </summary>
 using System;

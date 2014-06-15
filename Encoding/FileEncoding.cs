@@ -1,7 +1,7 @@
 ﻿/// <summary>
 /// 类说明：EncodingType 用于自动识别文件编码的类
-/// 编 码 人：苏飞
-/// 联系方式：361983679  
+/// 编 码 人：Kevin
+/// 联系方式：746396173
 /// 更新网站：http://www.sufeinet.com/thread-655-1-1.html
 /// </summary>
 using System;
