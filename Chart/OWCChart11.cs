@@ -1,7 +1,7 @@
 ﻿///// <summary>
 ///// 类说明：进行作统计图的封装类
 ///// 联系方式：746396173
-///// 更新网站：http://www.sufeinet.com/thread-655-1-1.html
+////https://github.com/lisong521/DotNet.Utilities
 ///// </summary>
 //using System;
 //using System.Data;

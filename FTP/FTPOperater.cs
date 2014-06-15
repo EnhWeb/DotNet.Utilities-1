@@ -1,7 +1,7 @@
 /// <summary>
-/// 类说明：CacheHelper
+/// 类说明：CacheHelperhttps://github.com/lisong521/DotNet.Utilities
 /// 联系方式：746396173
-/// 更新网站：http://www.sufeinet.com/thread-655-1-1.html
+//https://github.com/lisong521/DotNet.Utilities
 /// </summary>
 using System;
 using System.Text;

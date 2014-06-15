@@ -2,7 +2,7 @@
 /// 类说明：Assistant
 /// 编 码 人：Kevin
 /// 联系方式：746396173
-/// 更新网站：http://www.sufeinet.com/thread-655-1-1.html
+//https://github.com/lisong521/DotNet.Utilities
 /// </summary>
 /** 1. 功能：处理数据类型转换，数制转换、编码转换相关的类
  *  2. 作者：周兆坤 

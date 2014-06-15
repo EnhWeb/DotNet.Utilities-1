@@ -2,7 +2,7 @@
 /// 类说明：Assistant
 /// 编 码 人：Kevin
 /// 联系方式：746396173
-/// 更新网站：http://www.sufeinet.com/thread-655-1-1.html
+//https://github.com/lisong521/DotNet.Utilities
 /// </summary>
 using System;
 using System.Drawing;
